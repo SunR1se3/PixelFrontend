@@ -1,0 +1,37 @@
+header {
+    //font-family: 'Lucida Grande';
+    font-size: 15pt;
+    font-weight: 400;
+    color: rgb(187,167,196);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #362254;
+}
+
+a:link {
+    color: rgb(187,167,196);
+}
+
+a:hover {
+    color: white;
+}
+
+.background {
+    background-color: #130428	 !important;
+    transition: 0.2s linear;
+}
+
+.dropdown-menu a:link {
+    color: rgb(0, 0, 0);
+}
+
+.img-logo {
+    width: 100px;
+    height: 50px;
+}
+
+.navbar-collapse {
+    padding-right: 5%;
+}

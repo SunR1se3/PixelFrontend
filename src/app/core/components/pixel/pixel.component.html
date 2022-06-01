@@ -1,0 +1,135 @@
+<!-- <div class="context">
+    <h1>ВАШИ ИДЕИ - НАШЕ ВОПОЛЩЕНИЕ</h1>
+    <div class="arrow-7">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>  
+</div>
+
+
+<div class="area">
+    <ul class="circles">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div> -->
+
+<div class="greeting">
+    <div class="row greeting-content">
+        <div class="col-sm">
+            <h1 class="text-light"> <strong>ПОЛНЫЙ СПЕКТР <br> ПОЛИГРАФИЧЕСКИХ УСЛУГ <br> В СЕВАСТОПОЛЕ</strong></h1>
+            <h3 class="text-muted">Безупречное качество. Комфортные цены. <br> Работаем на современном оборудовании.
+            </h3>
+        </div>
+        <div class="col-sm">
+            <img src="/assets/img/hand.png" alt="hand">
+        </div>
+    </div>
+</div>
+
+<div class="display-4 text-center">Мы предлагаем</div>
+
+<div id="carouselExampleIndicators" class="carousel slide col-md-8 mx-auto" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+            class="active default-color-indicator" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"
+            class="default-color-indicator"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"
+            class="default-color-indicator"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="row">
+                <div *ngFor="let offer of offers" class="col-sm">
+                    <div class="card" style="width: 18rem;">
+                        <img src="/assets/img/{{ offer['fileName'] }}" class="card-img-top" alt="{{ offer['title'] }}">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ offer['title'] }}</h5>
+                            <p class="card-text">{{ offer['description'] }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="main-work">
+    <div class="display-4 text-center">Основное направление</div>
+    <div class="row justify-content-center">
+        <div class="col-3">
+            <img src="https://www.ru-pechati.ru/wp-content/uploads/2019/10/DIYi8LOW0AA6lhF.jpg" alt="1"
+                class="main-img">
+        </div>
+        <div class="col-3">
+            <div class="caption">
+                <h2>Тиражирование документов</h2>
+                <p class="lead">Настоящие профессионалы своего дела!</p>
+            </div>
+            <br>
+
+            <div class="description">
+                Приветствуем Вас на сайте нашего салона оперативной полиграфии.
+                В нашем печатном салоне Вы всегда сможете распечатать текст, чертежи и другую документацию форматом А4,
+                А3, А2, А1, А0 и более с любых цифровых носителей: CD и DVD дисков, флеш-карт.
+            </div>
+
+            <div class="description">
+                Мы также сделаем цветную распечатку А4, А3+ на цветном лазерном принтере как на бумагах ColorCopy, 4CC,
+                Colotech+, так и на мелованной бумаге для цветных лазерных принтеров различных плотностей и форматов.
+            </div>
+
+            <div class="description">
+                К распечатке принимаются файлы в форматах: pdf, jpg, tiff, Microsoft office(doc, docx, xlsx, xls, ppt, и
+                др.),Open Office, Сoler draw - cdr , Photoshop - psd, Autocad, Compass и другие.
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="display-4 text-center">
+    Среди наших клиентов:
+    <p class="lead">Нам доверяют много известных компаний, будьте и вы в их числе</p>
+</div>
+
+<div class="container">
+    <div class="row col-md-8 mx-auto partners">
+        <div class="col-sm">
+            <img src="https://sun9-6.userapi.com/impg/BJUpv0M9nQNYf-3wnRxMzyROKC61Uc5YzLVE2g/GHaszprVVmc.jpg?size=604x604&quality=96&sign=e439b6c27322282a2ae97e36956f8542&type=album"
+                alt="" class="partner-logo">
+        </div>
+        <div class="col-sm">
+            <img src="https://ecpu.ru/builders/139/139_d5a99460aa3a5128976a9f5dd40f02d4.png" alt="inter-stroi"
+                class="partner-logo">
+        </div>
+        <div class="col-sm">
+            <img src="https://storage.myseldon.com/yugo/C215DEBDC57D5FFDC02D912EC1CC7124.png" alt="SuvSu"
+                class="partner-logo">
+        </div>
+    </div>
+    <div class="row col-md-8 mx-auto">
+        <div class="col-sm">
+            <img src="https://sun9-70.userapi.com/sun9-31/impg/rRH2FTmkKdkhcp9tmE8HdL8PfK4fLn-2GcwBFA/FVihy1oROTg.jpg?size=604x418&quality=96&sign=5c7591855d96b8d62351e4002651a881&c_uniq_tag=wd-M7MOfHUH-Bf18THOuBTrF8Amic7uIRCpm6ZEU2dg&type=album"
+                alt="lolo-pizza" class="partner-logo">
+        </div>
+        <div class="col-sm">
+            <img src="http://i.mycdn.me/i?r=AzGBqNaF5OQp2lMpnhRx4DEFMkOhmbCz_li38bZurof1kUj_TDbiVO31GVAd1Hvg0B8"
+                alt="crimea-trl" class="partner-logo">
+        </div>
+        <div class="col-sm">
+            <img src="https://shkolnie.ru/pars_docs/refs/91/90243/90243_html_1deeb0ff.jpg" alt="mgu-sev"
+                class="partner-logo">
+        </div>
+    </div>
+</div>

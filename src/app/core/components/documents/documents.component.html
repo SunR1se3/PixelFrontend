@@ -1,0 +1,23 @@
+<div class="content">
+    <p class="display-3 text-center text-light pt-5 pb-5">Что именно нужно сделать?</p>
+
+    <div class="container pb-3">
+        <div class="row">
+            <div class="col-sm" *ngFor="let ware of wares; let i = index">
+                <div class="post-wrap">
+                    <div class="post-item">
+                        <div class="item-content">
+                            <div class="item-body">
+                                <h3>{{ ware.title }}</h3>
+                                <p>{{ ware.description }}</p>
+                            </div>
+                            <div class="item-footer">
+                                <a href="{{ pathToWare[i] }}" class="link"><span>Выбрать!</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>            
+    </div>
+</div>

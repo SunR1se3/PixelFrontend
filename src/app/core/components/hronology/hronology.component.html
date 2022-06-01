@@ -1,0 +1,31 @@
+<div class="content">
+    <div class="container form-container">
+        <form class="form border mx-auto p-3 w-50" [formGroup]="info">
+            <div class="mb-3">
+                <label for="idOrder" class="form-label">Уникальный номер заказа</label>
+                <input type="text" class="form-control"
+                    [class.is-invalid]="idOrderControl?.invalid && idOrderControl?.touched" id="idOrder"
+                    formControlName="idOrder">
+                <div class="invalid-feedback" *ngIf="idOrderControl?.hasError('required')">
+                    Поле не должно быть пустым
+                </div>
+            </div>
+            <button class="btn btn-primary" (click)="checkInfo()">Посмотреть</button>
+            <div class="container" *ngIf="orderNotFound">
+                <p class="lead">Такого заказа нет!</p>
+            </div>
+            <div class="container" *ngIf="showProgressBar && !orderNotFound">
+                <div class="row mt-3">
+                    <div class="col">Подачи заявки {{ dateCreationOrder }}</div>
+                    <div class="col" *ngIf="dateAcceptionOrder != ''">Заказ принят {{ dateAcceptionOrder }}</div>
+                    <div class="col" *ngIf="production">Изготовление</div>
+                    <div class="col" *ngIf="isDone">Заказ готов!</div>
+                </div>
+            </div>
+            <div class="progress mt-1" *ngIf="!orderNotFound">
+                <div class="progress-bar" style="width: 0%;" role="progressbar" aria-valuenow="25" aria-valuemin="0"
+                    aria-valuemax="100">{{ procentProgressBar }}0</div>
+            </div>
+        </form>
+    </div>
+</div>

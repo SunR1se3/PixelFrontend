@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="940" preserveAspectRatio="xMidYMid" viewBox="0 0 1920 940" style="z-index:1;margin-right:-2px;display:block;background-repeat-y:initial;background-repeat-x:initial;background-color:rgb(54, 34, 84);animation-play-state:paused" ><g transform="translate(960,470) scale(1,1) translate(-960,-470)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><defs style="animation-play-state:paused" ><path id="path-dnx5ahep1zn-1" d="M-35 -35L35 -35L35 35L-35 35Z" fill="none" stroke="inherit" stroke-width="5.333333333333334" transform="scale(1.2)" style="transform:matrix(1.2, 0, 0, 1.2, 0, 0);animation-play-state:paused" ></path>
+
+  
+<path id="path-dnx5ahep1zn-2" d="M0 -37A37 37 0 0 1 0 37A37 37 0 0 1 0 -37" fill="none" stroke="inherit" stroke-width="5.333333333333334" transform="scale(1.2)" style="transform:matrix(1.2, 0, 0, 1.2, 0, 0);animation-play-state:paused" ></path>
+
+  
+<path id="path-dnx5ahep1zn-3" d="M0 -34.641L40 34.641L-40 34.641Z" fill="none" stroke="inherit" stroke-width="5.333333333333334" transform="scale(1.2)" style="transform:matrix(1.2, 0, 0, 1.2, 0, 0);animation-play-state:paused" ></path></defs>
+<path id="path0" d="M 192.210054588844 581.7204985122233
+c 0 48.46989388748321 -11.859654887362911 13.922203563426027 -25.78185845078894 13.922203563426027
+S 140.6463376872661 630.1903923997065 140.6463376872661 581.7204985122233
+s 11.859654887362911 -13.922203563426027 25.78185845078894 -13.922203563426027
+S 192.210054588844 533.2506046247402 192.210054588844 581.7204985122233
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-dnx5ahep1zn-1" x="0" y="0" stroke="#ff8100" transform="translate(180.8610382080078 604.1513061523438)" style="animation-play-state:paused" ></use>
+<path id="path1" d="M 666.9206810983986 801.2615713576969
+c 0 23.368751357213615 -5.717885970382054 6.712300921752846 -12.4301868921349 6.712300921752846
+S 642.0603073141289 824.6303227149104 642.0603073141289 801.2615713576969
+s 5.717885970382054 -6.712300921752846 12.4301868921349 -6.712300921752846
+S 666.9206810983986 777.8928200004833 666.9206810983986 801.2615713576969
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-dnx5ahep1zn-1" x="0" y="0" stroke="#363d70" transform="translate(661.0279541015625 811.7145385742188)" style="animation-play-state:paused" ></use>
+<path id="path2" d="M 927.743354730944 199.67782734158402
+c 0 61.372524119670366 -15.016681433536364 17.62827820458617 -32.64495963812253 17.62827820458617
+S 862.453435454699 261.05035146125437 862.453435454699 199.67782734158402
+s 15.016681433536364 -17.62827820458617 32.64495963812253 -17.62827820458617
+S 927.743354730944 138.30530322191365 927.743354730944 199.67782734158402
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-dnx5ahep1zn-3" x="0" y="0" stroke="#363d70" transform="translate(876.2400512695312 228.57022094726562)" style="animation-play-state:paused" ></use>
+<path id="path3" d="M 1492.5866785791982 607.5348860294075
+c 0 63.61660013699439 -15.565763863307136 18.272853230838816 -33.83861709414595 18.272853230838816
+S 1424.9094443909062 671.1514861664019 1424.9094443909062 607.5348860294075
+s 15.565763863307136 -18.272853230838816 33.83861709414595 -18.272853230838816
+S 1492.5866785791982 543.9182858924131 1492.5866785791982 607.5348860294075
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-dnx5ahep1zn-3" x="0" y="0" stroke="#363d70" transform="translate(1425.359375 623.4329833984375)" style="animation-play-state:paused" ></use>
+<path id="path4" d="M 1700.3202873237342 760.1265011020095
+c 0 27.61457202526816 -6.756756984906039 7.931845156194046 -14.688602141100084 7.931845156194046
+S 1670.943083041534 787.7410731272776 1670.943083041534 760.1265011020095
+s 6.756756984906039 -7.931845156194046 14.688602141100084 -7.931845156194046
+S 1700.3202873237342 732.5119290767414 1700.3202873237342 760.1265011020095
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-dnx5ahep1zn-3" x="0" y="0" stroke="#ff8100" transform="translate(1692.9095458984375 772.0903930664062)" style="animation-play-state:paused" ></use></g></svg>

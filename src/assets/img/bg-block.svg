@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1503" height="600" preserveAspectRatio="xMidYMid" viewBox="0 0 1503 600" style="z-index:1;margin-right:-2px;display:block;background-repeat-y:initial;background-repeat-x:initial;background-color:rgb(54, 34, 84);animation-play-state:paused" ><g transform="translate(751.5,300) scale(1,1) translate(-751.5,-300)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><defs style="animation-play-state:paused" ><path id="path-3vinehdimwc-1" d="M-35 -35L35 -35L35 35L-35 35Z" fill="none" stroke="inherit" stroke-width="5.333333333333334" transform="scale(1.2)" style="transform:matrix(1.2, 0, 0, 1.2, 0, 0);animation-play-state:paused" ></path>
+
+  
+<path id="path-3vinehdimwc-2" d="M0 -37A37 37 0 0 1 0 37A37 37 0 0 1 0 -37" fill="none" stroke="inherit" stroke-width="5.333333333333334" transform="scale(1.2)" style="transform:matrix(1.2, 0, 0, 1.2, 0, 0);animation-play-state:paused" ></path>
+
+  
+<path id="path-3vinehdimwc-3" d="M0 -34.641L40 34.641L-40 34.641Z" fill="none" stroke="inherit" stroke-width="5.333333333333334" transform="scale(1.2)" style="transform:matrix(1.2, 0, 0, 1.2, 0, 0);animation-play-state:paused" ></path></defs>
+<path id="path0" d="M 230.79149638911602 161.78338259459983
+c 0 48.93293358241927 -11.972951833996202 14.055204326865109 -26.02815616086131 14.055204326865109
+S 178.73518406739342 210.7163161770191 178.73518406739342 161.78338259459983
+s 11.972951833996202 -14.055204326865109 26.02815616086131 -14.055204326865109
+S 230.79149638911602 112.85044901218056 230.79149638911602 161.78338259459983
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-3vinehdimwc-1" x="0" y="0" stroke="#363d70" transform="translate(201.33367919921875 176.4838409423828)" style="animation-play-state:paused" ></use>
+<path id="path1" d="M 408.87300927006135 513.0577747615505
+c 0 38.486119598462906 -9.416816497496242 11.054523714452111 -20.471340211948355 11.054523714452111
+S 367.9303288461646 551.5438943600134 367.9303288461646 513.0577747615505
+s 9.416816497496242 -11.054523714452111 20.471340211948355 -11.054523714452111
+S 408.87300927006135 474.5716551630876 408.87300927006135 513.0577747615505
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-3vinehdimwc-3" x="0" y="0" stroke="#363d70" transform="translate(406.2935791015625 532.7460327148438)" style="animation-play-state:paused" ></use>
+<path id="path2" d="M 724.3410199129523 270.6434410047679
+c 0 60.00888269392367 -14.683024488938768 17.236593965275947 -31.919618454214714 17.236593965275947
+S 660.5017830045228 330.6523236986916 660.5017830045228 270.6434410047679
+s 14.683024488938768 -17.236593965275947 31.919618454214714 -17.236593965275947
+S 724.3410199129523 210.63455831084423 724.3410199129523 270.6434410047679
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-3vinehdimwc-3" x="0" y="0" stroke="#ff8100" transform="translate(692.17041015625 287.8831481933594)" style="animation-play-state:paused" ></use>
+<path id="path3" d="M 969.4485141538427 460.0201775125803
+c 0 59.20909093056702 -14.487330759606822 17.00686654388627 -31.494197303493095 17.00686654388627
+S 906.4601195468564 519.2292684431474 906.4601195468564 460.0201775125803
+s 14.487330759606822 -17.00686654388627 31.494197303493095 -17.00686654388627
+S 969.4485141538427 400.8110865820133 969.4485141538427 460.0201775125803
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-3vinehdimwc-1" x="0" y="0" stroke="#363d70" transform="translate(919.1658325195312 488.3830871582031)" style="animation-play-state:paused" ></use>
+<path id="path4" d="M 1419.556930654119 345.3938751661182
+c 0 60.69536516402419 -14.850993603963364 17.43377510030482 -32.28476870426818 17.43377510030482
+S 1354.9873932455828 406.0892403301424 1354.9873932455828 345.3938751661182
+s 14.850993603963364 -17.43377510030482 32.28476870426818 -17.43377510030482
+S 1419.556930654119 284.69851000209405 1419.556930654119 345.3938751661182
+z" fill="none" stroke="none" style="animation-play-state:paused" ></path>
+
+
+<use xlink:href="#path-3vinehdimwc-2" x="0" y="0" stroke="#363d70" transform="translate(1412.6309814453125 377.7645263671875)" style="animation-play-state:paused" ></use></g></svg>
